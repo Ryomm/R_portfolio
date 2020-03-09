@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="58" viewBox="0 0 58 58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ_5" data-name="グループ 5" transform="translate(-470 -844)">
+    <g id="グループ_4" data-name="グループ 4">
+      <rect id="長方形_5" data-name="長方形 5" width="58" height="58" rx="7" transform="translate(470 844)"/>
+    </g>
+    <path id="icons8-speaker-deck" class="cls-1" d="M8,8A5,5,0,0,0,8,18h6a1,1,0,0,1,0,2H5a2,2,0,0,0,0,4h9a5,5,0,0,0,0-10H8a1,1,0,0,1,0-2h7a2,2,0,0,0,0-4ZM18.445,8a3.866,3.866,0,0,1-.006,4H24a1,1,0,0,1,1,1v6a1,1,0,0,1-1,1H20.92a6.978,6.978,0,0,1-2.031,4H25a4,4,0,0,0,4-4V12a4,4,0,0,0-4-4Z" transform="translate(483 857)"/>
+  </g>
+</svg>
